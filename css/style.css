@@ -75,7 +75,6 @@ to {
 
 #logo{
    /*Your code here.*/
- -webkit-animation: logo_wiggle;
  animation-name: logo_wiggle;
  animation-duration: 15s;
 }
